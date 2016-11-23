@@ -1,5 +1,5 @@
 {
-  "name": "part2",
+  "name": "testOfWebpack",
   "version": "0.0.1",
   "devDependencies": {
     "css-loader": "^0.23.1",

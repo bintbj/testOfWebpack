@@ -1,5 +1,5 @@
 # testOfWebpack
-testOfWebpack
+认识webpack的config配置，以及loaders，plugin的使用
 
 ## webpack构建项目。
    * 利用HtmlWebpackPlugin插件生成html文件
